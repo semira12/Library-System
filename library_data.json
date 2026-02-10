@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1234,
+        "title": "No9",
+        "author": "Hollen",
+        "edition": 3,
+        "year": 2011,
+        "status": "Available",
+        "borrower": "None",
+        "due_date": null,
+        "waitlist": []
+    },
+    {
+        "id": 2345,
+        "title": "Kite RUNNER",
+        "author": "khaled",
+        "edition": 2,
+        "year": 2012,
+        "status": "Available",
+        "borrower": "None",
+        "due_date": null,
+        "waitlist": []
+    }
+]
